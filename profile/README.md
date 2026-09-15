@@ -1,237 +1,192 @@
 # FundedNext Coupon & Promotion Reference
 
-An independent community-maintained reference for researching
-FundedNext coupon codes, promotional offers, account discounts,
-and program-specific pricing.
+An independent community-maintained reference for researching FundedNext coupon codes, partner promotional codes, discounts, and program-specific offers.
 
-> **Important:** This repository is not affiliated with, endorsed by,
-> sponsored by, or officially connected with FundedNext.
+**Important:** This repository is not affiliated with, endorsed by, sponsored by, or officially connected with FundedNext.
+
+---
 
 ## About This Repository
 
-This project organizes publicly available information about FundedNext
-promotions in one place so traders can compare an advertised coupon
-with the offer displayed at checkout.
+This project organizes publicly available information about three FundedNext partner promotional codes in one place:
 
-The goal is **reference and transparency**, not a guarantee that any
-coupon will work for every customer or account.
+* `SAVEMAX`
+* `FUNDNEXT`
+* `NEXTFUNDED`
+
+The purpose is to provide a transparent reference for people researching FundedNext promotions and comparing an advertised code with the offer displayed at checkout.
 
 FundedNext promotions can change by:
+* Account type
+* Account size
+* New or existing customer status
+* Country or regional pricing
+* Current promotional terms
+* Eligibility requirements
 
-- Account type
-- Account size
-- New or existing customer status
-- Country or regional pricing
-- Promotion period
-- Redemption limits
-- Eligibility requirements
+Always verify the final price and applicable terms directly with FundedNext before making a purchase.
 
-Always verify the final price and terms directly with FundedNext before
-making a purchase.
+---
 
-## Current Coupon Information
+## Current FundedNext Partner Codes
 
-### SAVEMAX
+### `SAVEMAX`
+* **SAVEMAX** is a FundedNext partner/affiliate promotional code associated with FundedNext offers.
+* The code may be used for eligible FundedNext products where the applicable partner promotion is available.
+* The exact discount should always be verified at checkout because FundedNext promotions can vary by product, account, customer status, region, and current promotional terms.
 
-`SAVEMAX` has been circulated as a FundedNext promotional code covering
-selected CFD and Futures offers.
+### `FUNDNEXT`
+* **FUNDNEXT** is a FundedNext partner/affiliate promotional code associated with FundedNext offers.
+* As with any FundedNext promotional code, the applicable discount should be confirmed at checkout before completing a purchase.
 
-However, this repository does **not** represent SAVEMAX as an official
-FundedNext-wide promotion unless the offer can be independently verified.
+### `NEXTFUNDED`
+* **NEXTFUNDED** is a FundedNext partner/affiliate promotional code associated with FundedNext offers.
+* The final benefit may depend on the FundedNext product, account size, customer eligibility, and current promotion.
 
-If you encounter a SAVEMAX offer, check the checkout page and the
-applicable FundedNext terms before relying on the advertised discount.
+---
 
-## Recently Verified FundedNext Promotions
+## Comparing the Three Codes
 
-FundedNext's official help documentation currently lists several
-promotions that can be independently checked.
+| Code | Type | Verification Approach |
+| :--- | :--- | :--- |
+| `SAVEMAX` | Partner / affiliate promotional code | Verify applicable offer at checkout |
+| `FUNDNEXT` | Partner / affiliate promotional code | Verify applicable offer at checkout |
+| `NEXTFUNDED` | Partner / affiliate promotional code | Verify applicable offer at checkout |
 
-### Stellar Instant — INSTANT30
+There is no claim in this repository that one of these three codes always provides a better discount than the others.
 
-FundedNext currently documents a limited-time **30% discount** for
-Stellar Instant plans using:
+If multiple codes are presented with the same promotional terms, the practical approach is to use an eligible code and confirm the final checkout price.
 
-`INSTANT30`
+---
 
-According to FundedNext's published offer information, the promotion
-applies to Stellar Instant plans across account sizes and is available
-to new and existing users, including users in the United States.
+## Partner Verification & Visual Evidence
 
-The offer may end without advance notice, so the checkout page should
-be treated as the final source for eligibility and pricing.
+To maintain full transparency and verify partner status without exposing private account metrics or needing multiple customer accounts, this repository includes redacted proof directly from the official FundedNext Partner Portal and approval systems.
 
-### 6K Stellar Challenge — START6K
+### Evidence Framework
 
-FundedNext also documents a `START6K` promotion for selected:
+| Evidence Type | Purpose & Scope | Source / Basis |
+| :--- | :--- | :--- |
+| **Official Partner Framework** | Verifies FundedNext's partner ecosystem, custom code system, and referral attribution rules. | Official FundedNext Documentation & Help Center |
+| **Partner Participation Proof** | Demonstrates active maintainer status, Gold partner rank, verified KYC, and dashboard access. | Verified Dashboard & Approval Correspondence |
+| **Code Tracking Verification** | Confirms active status and referral system association for `SAVEMAX`, `FUNDNEXT`, and `NEXTFUNDED`. | FundedNext Partner Performance Dashboard |
+| **Checkout Verification** | Confirms the real-time discount, active eligibility, and final order total. | Live FundedNext Checkout System |
 
-- 6K Stellar 2-Step accounts
-- 6K Stellar 1-Step accounts
+---
 
-The published offer provides different discounts for global and USA
-pricing and is subject to its stated redemption and eligibility rules.
+### Program Participation Proof
 
-## Why Coupon Information Changes
+#### 1. Partner Onboarding & KYC Verification
+Official FundedNext correspondence confirming KYC document approval, active partner account verification, and unrestricted portal access:
 
-A coupon listed online is not necessarily a permanent discount.
+![FundedNext KYC & Account Verification Status](assets/kyc-approval-proof.jpg)
+*Figure 1: Official FundedNext partner onboarding approval and KYC verification confirmation.*
 
-Promotional campaigns can be replaced, limited to certain account
-sizes, restricted to new users, or closed without a long advance notice.
+---
 
-For that reason, this repository separates:
+#### 2. Gold Level Partner Portal Access
+Active interface showing maintainer access to the FundedNext Partner Workspace, Gold Tier account level, and referral link distribution tools:
 
-1. **Reported codes** — codes found in community or third-party
-   promotional material.
-2. **Officially documented offers** — promotions supported by current
-   FundedNext documentation.
-3. **Checkout verification** — the final price shown when the code is
-   actually entered.
+![FundedNext Partner Portal Workspace](assets/partner-portal-workspace.jpg)
+*Figure 2: FundedNext Partner Portal workspace confirming Gold Tier partner status and active tools.*
 
-This distinction helps avoid presenting an expired or unverified code
-as a guaranteed promotion.
+---
 
-## How to Check a Coupon
+#### 3. Active Custom Partner Codes
+System-level verification from the FundedNext Performance Tracking dashboard showing the exact promotional tracking codes (`SAVEMAX`, `FUNDNEXT`, `NEXTFUNDED`) assigned and active under the partner account:
 
-Before purchasing a FundedNext account:
+![FundedNext Active Custom Codes Interface](assets/active-codes-dashboard.jpg)
+*Figure 3: FundedNext Partner Performance Dashboard showing active assignment and tracking for SAVEMAX, FUNDNEXT, and NEXTFUNDED.*
 
-1. Select the account and program you are considering.
-2. Review the current FundedNext pricing.
-3. Enter the coupon code at checkout.
-4. Confirm that the discount is actually applied.
-5. Read the promotion's eligibility requirements.
-6. Check whether the offer has an expiration date or redemption limit.
-7. Only proceed if the final terms match what you expected.
+> **Privacy Notice:** All personal identifying information (PII), payout records, total earnings, commission values, email addresses, and account credentials have been intentionally redacted to protect maintainer privacy while providing full proof of partner code authenticity.
 
-A coupon appearing on a website, social post, or repository should not
-be treated as proof that the promotion is currently valid.
+---
 
-## CFD Programs Covered by This Reference
+### Public Verification vs. Checkout Reality
 
-This repository may track promotions associated with FundedNext CFD
-programs such as:
+* **Partner Code Function:** FundedNext partner codes act as referral attribution tools and grant the user the highest applicable discount available under current promotional terms.
+* **Dynamic Discounting:** Discounts, bonus retries, and fee waivers fluctuate based on account size, program type (CFD vs. Futures), regional pricing, and campaign windows.
+* **Final Authority:** Neither this repository nor third-party coupon aggregators set program pricing. The applied discount displayed at the FundedNext checkout screen remains the sole binding offer.
 
-- Stellar 1-Step
-- Stellar 2-Step
-- Stellar Lite
-- Stellar Instant
+---
 
-The availability of a coupon does not mean that every account size or
-program qualifies.
+## What FundedNext's Official Partner Documentation Confirms
 
-## Futures Programs
+FundedNext maintains an official Partners Program for creators, educators, community leaders, traders, and other eligible partners.
 
-The repository may also track promotions relating to FundedNext Futures,
-including:
+According to FundedNext's official partner documentation:
+* Partners can promote FundedNext products.
+* Partners can receive unique referral links and referral codes.
+* Partners can use promotional codes with their audiences.
+* Partners can create and manage custom referral codes.
+* FundedNext's current partner documentation states that a partner's code matches the best available official FundedNext discount.
+* FundedNext supports promotion of both CFD and Futures products through its partner program.
 
-- Futures Legacy
-- Futures Rapid Pro
-- Futures Rapid Daily
-- Futures Flex
+This repository uses that official documentation as the basis for describing `SAVEMAX`, `FUNDNEXT`, and `NEXTFUNDED` as partner/affiliate promotional codes.
 
-Futures promotions can have separate conditions from CFD promotions.
-Do not assume that a CFD coupon automatically applies to a Futures
-account.
+---
 
-## Referral Codes vs Coupon Codes
+## Partner Codes vs. General Coupon Codes
 
-A referral code and a promotional coupon are not necessarily the same
-thing.
+A FundedNext partner code is different from simply finding a coupon code on an unrelated coupon website.
 
-FundedNext's official documentation describes its referral program as
-providing a discount to eligible new customers on their first purchase,
-while the referring trader may receive a commission.
+FundedNext's partner documentation explains that partners can receive referral codes and that purchases using those codes can be attributed to the relevant partner.
 
-Referral terms should therefore be checked separately from
-time-limited promotional coupons.
+For that reason, a partner promotional code can function as both:
+1. A customer-facing promotional code; and
+2. A referral attribution mechanism for the associated partner.
 
-## Transparency & Disclosure
+---
 
-This repository is an **independent informational resource**.
+## Program Categories
 
-It is not the official FundedNext website, help center, support channel,
-or affiliate disclosure page.
+### CFD Programs
+FundedNext offers CFD programs with promotional terms that can change over time. Examples include:
+* Stellar 1-Step
+* Stellar 2-Step
+* Stellar Lite
+* Stellar Instant
 
-Unless explicitly stated otherwise:
+### Futures Programs
+FundedNext also offers Futures programs, with promotional conditions that may differ from CFD products. Examples include:
+* Futures Legacy
+* Futures Rapid Pro
+* Futures Rapid Daily
+* Futures Flex
 
-- We do not speak for FundedNext.
-- We do not guarantee coupon validity.
-- We do not guarantee account approval or funding.
-- We do not guarantee a particular discount.
-- Promotional information may become outdated.
-- Prices and eligibility may differ by region.
-- Users should verify offers directly with FundedNext.
+---
 
-If this repository receives compensation, referral commission, or another
-commercial benefit from a listed promotion, that relationship should be
-disclosed clearly on the relevant page or section.
+## How to Check a FundedNext Promo Code
 
-## Trading Risk Notice
+Before purchasing:
 
-FundedNext account promotions are not investment advice.
+1. Select the FundedNext program you are considering.
+2. Choose the account size and applicable options.
+3. Continue to checkout.
+4. Enter one of the three codes covered by this repository:
+   * `SAVEMAX`
+   * `FUNDNEXT`
+   * `NEXTFUNDED`
+5. Apply the code and review the final price before paying.
 
-Trading involves substantial risk, and purchasing a trading evaluation
-or simulated trading account does not guarantee profits, payouts, or
-future trading success.
+---
 
-A discount reduces a purchase price; it does not reduce the underlying
-risk of trading.
-
-Review the applicable rules, fees, drawdown requirements, restrictions,
-and reward conditions before purchasing any trading program.
-
-## Sources
-
-For promotion verification, prefer first-party FundedNext resources
-over coupon aggregators or social-media posts.
-
-Useful official sources include:
-
-- FundedNext Help Center
-- FundedNext official product pages
-- FundedNext official promotion pages
-- FundedNext account and program documentation
-
-When an offer cannot be confirmed through a current first-party source,
-it should be labeled **unverified** rather than presented as an official
-promotion.
-
-## Updating This Repository
-
-When adding a new coupon or promotion, include:
-
-- Coupon code
-- Program name
-- Eligible account sizes
-- New-user or returning-user requirement
-- Regional restrictions
-- Discount amount
-- Promotion start date, when known
-- Expiration date, when known
-- Redemption limits, when known
-- Source used for verification
-- Date the information was last checked
-
-Avoid copying promotional claims without checking their source.
-
-## Suggested Status Labels
+## Verification Status Glossary
 
 | Status | Meaning |
-| --- | --- |
-| `Verified` | Supported by a current first-party source |
-| `Checkout Verified` | Successfully confirmed at checkout |
-| `Reported` | Reported by users or third parties |
-| `Unverified` | No reliable current confirmation |
-| `Expired` | Previously valid but no longer active |
+| :--- | :--- |
+| **Partner Code** | Code is presented as a FundedNext partner/affiliate promotional code |
+| **Official Partner Documentation** | FundedNext first-party documentation confirms the partner-code system |
+| **Checkout Verified** | The applicable offer has been successfully confirmed at checkout |
+| **Reported** | Information comes from a third-party or community source |
+| **Unverified** | No reliable current confirmation is available |
+| **Expired** | Previously available promotion is no longer active |
 
-## Disclaimer
+---
 
-FundedNext is a trademark of its respective owner.
+## Transparency, Disclosure & Risk Notice
 
-All trademarks and brand names belong to their respective owners.
-
-This repository is provided for informational purposes only and does
-not constitute an official FundedNext publication.
-
-Promotion availability, pricing, eligibility, and terms can change.
-Always confirm the current offer directly with FundedNext before making
-a purchase.
+* **Independent Resource:** This repository is an independent informational resource and is not the official FundedNext website, Help Center, support channel, or partner portal.
+* **Affiliate Disclosure:** The maintainer receives partner attribution/referral credit when these codes are utilized.
+* **Trading Risk Notice:** FundedNext promotions are not investment advice. Trading and trading-related programs involve financial risk. Purchasing an evaluation or simulated trading account does not guarantee profits, payouts, or future trading success.
+* **Disclaimer:** FundedNext is a trademark of its respective owner. All trademarks belong to their respective owners.
