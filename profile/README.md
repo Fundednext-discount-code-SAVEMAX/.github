@@ -79,7 +79,7 @@ To maintain full transparency and verify partner status without exposing private
 #### 1. Partner Onboarding & KYC Verification
 Official FundedNext correspondence confirming KYC document approval, active partner account verification, and unrestricted portal access:
 
-![FundedNext KYC & Account Verification Status](kyc-approval-proof.jpg)
+![FundedNext KYC & Account Verification Status](https://raw.githubusercontent.com/Fundednext-discount-code-SAVEMAX/.github/main/kyc-approval-proof.jpg)
 *Figure 1: Official FundedNext partner onboarding approval and KYC verification confirmation.*
 
 ---
@@ -87,7 +87,7 @@ Official FundedNext correspondence confirming KYC document approval, active part
 #### 2. Gold Level Partner Portal Access
 Active interface showing maintainer access to the FundedNext Partner Workspace, Gold Tier account level, and referral link distribution tools:
 
-![FundedNext Partner Portal Workspace](partner-portal-workspace.jpg)
+![FundedNext Partner Portal Workspace](https://raw.githubusercontent.com/Fundednext-discount-code-SAVEMAX/.github/main/partner-portal-workspace.jpg)
 *Figure 2: FundedNext Partner Portal workspace confirming Gold Tier partner status and active tools.*
 
 ---
@@ -95,7 +95,7 @@ Active interface showing maintainer access to the FundedNext Partner Workspace, 
 #### 3. Active Custom Partner Codes
 System-level verification from the FundedNext Performance Tracking dashboard showing the exact promotional tracking codes (`SAVEMAX`, `FUNDNEXT`, `NEXTFUNDED`) assigned and active under the partner account:
 
-![FundedNext Active Custom Codes Interface](active-codes-dashboard.jpg)
+![FundedNext Active Custom Codes Interface](https://raw.githubusercontent.com/Fundednext-discount-code-SAVEMAX/.github/main/active-codes-dashboard.jpg)
 *Figure 3: FundedNext Partner Performance Dashboard showing active assignment and tracking for SAVEMAX, FUNDNEXT, and NEXTFUNDED.*
 
 > **Privacy Notice:** All personal identifying information (PII), payout records, total earnings, commission values, email addresses, and account credentials have been intentionally redacted to protect maintainer privacy while providing full proof of partner code authenticity.
